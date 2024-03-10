@@ -44,4 +44,3 @@ e aplique-o escrevendo:
 ```pascal
 MaxOf3 (a, b, c)
 ```
-```
