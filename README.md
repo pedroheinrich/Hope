@@ -1,5 +1,14 @@
 # Hope-Language
 
+Hope é uma pequena linguagem de programação funcional, com tipagem polimórfica, tipos algébricos, correspondência de padrões e funções de ordem superior. A versão aqui é um interpretador totalmente preguiçoso.
+
+Tutorial 
+Um interpretador de Hope 
+Bibliotecas Hope 
+Alguns exemplos de Hope
+Código fonte C para o interpretador
+
+## Conheça a Hope
 Hope é uma linguagem de programação funcional desenvolvida na década de 1970 na Universidade de Edimburgo. Ela antecede Miranda e Haskell, sendo contemporânea do ML, também desenvolvido na mesma universidade. Hope foi derivada da linguagem NPL, uma linguagem funcional simples criada por Rod Burstall e John Darlington em seu trabalho sobre transformação de programas. NPL e Hope são notáveis por serem as primeiras linguagens com avaliação call-by-pattern e tipos de dados algebricos.
 
 O nome Hope foi inspirado em Sir Thomas Hope (c. 1681–1771), um reformador agrícola escocês. O local onde o Departamento de Inteligência Artificial estava localizado durante o desenvolvimento do Hope, em Edimburgo, também foi chamado de Hope Park Square.
