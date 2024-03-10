@@ -1,7 +1,9 @@
 ```markdown
 # Funções em linguagens convencionais:
 
-Em uma linguagem como Pascal, uma função é um pedaço de programa “empacotado” para realizar operações padrão, como encontrar raízes quadradas. Para obter a raiz quadrada de um número positivo armazenado em uma variável x , escrevemos:
+Em uma linguagem como Pascal, uma função é um pedaço de programa “empacotado” para realizar operações
+padrão, como encontrar raízes quadradas. Para obter a raiz quadrada de um número positivo armazenado
+em uma variável x , escrevemos:
 
 ```pascal
 quadrado ( x )
