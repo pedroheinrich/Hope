@@ -7,6 +7,7 @@ Em uma linguagem como Pascal, uma função é um pedaço de programa “empacota
 quadrado ( x )
 ```
 no ponto do programa onde queremos o valor, como:
+
 ```pascal
 writeln(1.0 + sqrt(x));
 ```
