@@ -1,0 +1,7 @@
+```markdown
+# Programação com funções
+
+Pascal é chamada de linguagem imperativa porque os programas escritos nela são receitas para “fazer algo”. Se nossos programas consistem apenas em funções, podemos nos concentrar nos resultados e ignorar como eles são calculados. Esqueça que sqrt é um pedaço de código e pense em sqrt ( x ) como uma forma de escrever um valor em seu programa, e você entenderá. Você também pode pensar em MaxOf3 assim se ignorar a maneira como ele funciona por dentro. Ao definir um “kit de ferramentas” de funções úteis e combiná-las desta forma, podemos construir programas poderosos que são bastante curtos e fáceis de entender.
+
+Em Pascal, as funções só podem retornar objetos de dados “simples”, como números ou caracteres, mas programas reais usam estruturas de big data e não podem ser escritos facilmente usando essas funções. No Hope, as funções podem retornar qualquer tipo de valor, incluindo estruturas de dados equivalentes aos arrays e registros de Pascal e muito mais. Programar em Hope tem o sabor de simplesmente “escrever a resposta” escrevendo uma expressão que a defina. Este conterá um ou mais aplicativos de função para definir partes menores da resposta. Essas funções geralmente não serão incorporadas como sqrt , então teremos que defini-las nós mesmos, mas ainda pensaremos nelas como definições de objetos de dados, e não como algoritmos para calculá-los.
+```
