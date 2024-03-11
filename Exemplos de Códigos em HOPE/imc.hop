@@ -1,0 +1,3 @@
+dec imc : num # num -> num;
+
+--- imc (peso, altura) <= peso / pow (altura, 2);
