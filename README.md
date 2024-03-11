@@ -1,16 +1,20 @@
 # Linguagem de Programação Funcional HOPE
 
+![hopelinguagemdeprogramação](https://github.com/pedroheinrich/Hope/assets/97209403/c6930efe-96e4-48da-abbd-bc1789e46f30)
+
 Hope é uma pequena linguagem de programação funcional, com tipagem polimórfica, tipos algébricos, correspondência de padrões e funções de ordem superior. A versão aqui é um interpretador totalmente preguiçoso.
 
-Tutorial [`Tutorial`](https://github.com/pedroheinrich/Hope/tree/main/Tutorial/Apresentando%20a%20programa%C3%A7%C3%A3o%20funcional)
+[`Tutorial`](https://github.com/pedroheinrich/Hope/tree/main/Tutorial/Apresentando%20a%20programa%C3%A7%C3%A3o%20funcional)
 
-Interpretador de Hope [``]()
+[`Interpretador de Hope`](https://github.com/pedroheinrich/Hope/tree/main/Interpretador%20de%20Hope)
 
-Bibliotecas Hope 
+[`Bibliotecas Hope`](https://github.com/pedroheinrich/Hope/tree/main/Bibliotecas%20de%20Hope)
 
-Alguns exemplos de Hope
+[`Exemplos de Códigos`](https://github.com/pedroheinrich/Hope/tree/main/Exemplos%20de%20C%C3%B3digos%20em%20HOPE)
 
-Código fonte C para o interpretador
+[`Código Fonte`](https://github.com/pedroheinrich/Hope/tree/main/C%C3%B3digo%20Fonte%20em%20C)
+
+[`Instalador Linux`](https://github.com/pedroheinrich/Hope/tree/main/Instalador%20HOPE%20Linux)
 
 ## Conheça a Hope
 Hope é uma linguagem de programação funcional desenvolvida na década de 1970 na Universidade de Edimburgo. Ela antecede Miranda e Haskell, sendo contemporânea do ML, também desenvolvido na mesma universidade. Hope foi derivada da linguagem NPL, uma linguagem funcional simples criada por Rod Burstall e John Darlington em seu trabalho sobre transformação de programas. NPL e Hope são notáveis por serem as primeiras linguagens com avaliação call-by-pattern e tipos de dados algebricos.
