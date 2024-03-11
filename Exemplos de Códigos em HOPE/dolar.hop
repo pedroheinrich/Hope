@@ -1,0 +1,3 @@
+dec dolar : num # num -> num;
+
+--- dolar (real, valor) <= real / valor;
