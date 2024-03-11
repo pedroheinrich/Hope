@@ -1,9 +1,9 @@
 
-# Bibliotecas Esperança 🌈
+# Bibliotecas Hope 📚
 
 Uma biblioteca pode ser usada com o comando Hope `uses "nome do arquivo";`.
 
-## Módulos 📚
+## Módulos 
 
 1. **arith**: Algumas funções aritméticas simples.
 2. **ctype**: Funções de classificação de caracteres.
