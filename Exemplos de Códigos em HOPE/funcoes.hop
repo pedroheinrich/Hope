@@ -1,0 +1,15 @@
+dec pi : num;
+dec circunferencia : num -> num;
+dec soma : num # num -> num;
+dec mult : num # num -> num;
+dec sub : num # num -> num;
+
+--- pi <= 3.14159;
+
+--- circunferencia r <= pi * pow (r, 2);
+
+--- soma (x, y) <= x + y;
+
+--- mult (x, y) <= x * y;
+
+--- sub (x, y) <= x - y;
