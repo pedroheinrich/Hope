@@ -1,5 +1,5 @@
 ```markdown
-# Análise
+## Análise
 
 Até agora, nos concentramos em recursos do **Hope** que têm algo em comum
 com linguagens tradicionais como **Pascal**, mas sem muitas de suas limitações,
