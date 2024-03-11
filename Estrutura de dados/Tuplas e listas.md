@@ -48,14 +48,14 @@ A outra função de lista padrão é `nil`, que define uma lista sem elementos n
 é considerado uma forma abreviada de escrever:
 
 ```
-a + 1 :: ( b - 2 :: ( c * d :: nulo ) )
+a + 1 :: ( b - 2 :: ( c * d :: nil ) )
 ```
 Há também uma forma abreviada de escrever listas de personagens. As três expressões a seguir são todas equivalentes:
 
 ```
 "gato"
 [ 'g', 'a', 't', 'o' ]
-'g' :: ( 'a' :: ( 't' :: ( 'o' :: nulo ) ) )
+'g' :: ( 'a' :: ( 't' :: ( 'o' :: nil ) ) )
 ```
 Quando o resultado de um programa Hope é uma lista, ele é sempre impresso em notação concisa entre colchetes; se for uma lista de caracteres, será impressa entre aspas.
 
