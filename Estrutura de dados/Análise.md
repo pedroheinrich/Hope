@@ -1,4 +1,4 @@
-```markdown
+
 ## Análise
 
 Até agora, nos concentramos em recursos do **Hope** que têm algo em comum
@@ -11,4 +11,4 @@ Agora, apresentaremos recursos do **Hope** que o elevam a um nível muito mais a
 de poder expressivo e nos permitirão escrever programas que não sejam apenas extremamente
 poderosos e concisos, mas que possam ser verificados quanto à correção em tempo de
 compilação e transformados mecanicamente em mais versões eficientes.
-```
+
