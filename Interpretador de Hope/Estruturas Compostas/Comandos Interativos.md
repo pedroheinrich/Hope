@@ -27,14 +27,14 @@ display;
 Salve as definições da sessão atual em um novo módulo com o nome fornecido. As definições são substituídas na sessão atual por uma referência ao novo módulo.
 
 ```hope
-save module-identifier;
+save "modulo";
 ```
 
 ## 5. `edit [ module-identifier ];`
 (Somente Unix) Invoque o editor padrão no módulo nomeado, se fornecido, ou de outra forma em um arquivo contendo as definições atuais e, em seguida, insira novamente o interpretador com as definições revisadas.
 
 ```hope
-edit [ module-identifier ];
+edit "modulo";
 ```
 
 ## 6. `exit;`
