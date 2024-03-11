@@ -1,4 +1,4 @@
-# Correspondência de padrões
+## Correspondência de padrões
 
 Uma expressão composta por construtores que aparecem no lado esquerdo de uma equação de recursão é chamada de padrão. Selecionar a equação de recursão correta e desmontar o parâmetro real para nomear suas partes é chamado de correspondência de padrões. Ao escrever uma função, você deve fornecer uma equação de recursão para cada construtor possível que defina o tipo de argumento.
 
