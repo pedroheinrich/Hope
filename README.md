@@ -2,7 +2,7 @@
 
 Hope é uma pequena linguagem de programação funcional, com tipagem polimórfica, tipos algébricos, correspondência de padrões e funções de ordem superior. A versão aqui é um interpretador totalmente preguiçoso.
 
-<Tutorial> 
+Tutorial 
 
 Interpretador de Hope 
 
