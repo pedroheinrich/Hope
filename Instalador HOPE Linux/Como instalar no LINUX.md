@@ -2,7 +2,7 @@
 
 1 - Abra o Terminal (ctrl + alt + t)
 
-2 - Instalar o MAKE 
+2 - Instale o MAKE 
 
 O Make é uma ferramenta poderosa para compilar projetos de software, especialmente quando eles se 
 tornam mais extensos e envolvem várias dependências. Vou explicar como instalar o Make no seu sistema 
