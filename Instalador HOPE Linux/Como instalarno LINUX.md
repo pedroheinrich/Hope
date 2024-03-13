@@ -50,6 +50,7 @@ sudo make install
 ![image](https://github.com/pedroheinrich/Hope/assets/97209403/50ec8450-969b-4194-8c5a-0e889e318078)
 
 8 - Inicializando o HOPE, digite hope no Terminal
+
 ![image](https://github.com/pedroheinrich/Hope/assets/97209403/1d0b4357-568c-412a-90c5-df5681e7fb4d)
 
 9- Se aparecer este símbolo no seu terminal ![image](https://github.com/pedroheinrich/Hope/assets/97209403/d118697f-dcb8-4ce3-bff0-11da29858f2e) você já está no HOPE.
