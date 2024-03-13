@@ -18,4 +18,5 @@ Arch Linux e derivados: Utilize o gerenciador de pacotes pacman:
 ```terminal
 sudo pacman -Sy make
 ```
-
+2 - Descarregar o arquivo Hope-Master.zip em [![Captura de tela de 2024-03-12 21-59-14](https://github.com/pedroheinrich/Hope/assets/97209403/389ed2c6-5f3b-4369-bd87-e7bed30b2705)
+](https://github.com/pedroheinrich/Hope/blob/main/Instalador%20HOPE%20Linux/hope-master.zip)
