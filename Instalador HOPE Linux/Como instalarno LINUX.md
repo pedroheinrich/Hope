@@ -10,3 +10,12 @@ Debian, Ubuntu e derivados: Execute o seguinte comando no terminal:
 ```terminal
 sudo apt install make
 ```
+Fedora e distribuições baseadas no RHEL: Use o gerenciador de pacotes dnf:
+```terminal
+sudo dnf install make
+```
+Arch Linux e derivados: Utilize o gerenciador de pacotes pacman:
+```terminal
+sudo pacman -Sy make
+```
+
