@@ -7,6 +7,6 @@ tornam mais extensos e envolvem várias dependências. Vou explicar como instala
 Linux e também como criar um arquivo makefile para compilar um projeto de exemplo em C.
 
 Debian, Ubuntu e derivados: Execute o seguinte comando no terminal:
-´´´terminal
+```terminal
 sudo apt install make
-´´´
+```
